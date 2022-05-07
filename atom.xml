@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vippass4.github.io/Gridea.github.io/</id>
+    <id>https://Gridea.github.io</id>
     <title>Maybe</title>
-    <updated>2022-05-07T02:25:51.203Z</updated>
+    <updated>2022-05-07T02:29:55.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://vippass4.github.io/Gridea.github.io/"/>
-    <link rel="self" href="https://vippass4.github.io/Gridea.github.io/atom.xml"/>
+    <link rel="alternate" href="https://Gridea.github.io"/>
+    <link rel="self" href="https://Gridea.github.io/atom.xml"/>
     <subtitle>人生，本就有无数种可能</subtitle>
-    <logo>https://vippass4.github.io/Gridea.github.io/images/avatar.png</logo>
-    <icon>https://vippass4.github.io/Gridea.github.io/favicon.ico</icon>
+    <logo>https://Gridea.github.io/images/avatar.png</logo>
+    <icon>https://Gridea.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Maybe</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://vippass4.github.io/Gridea.github.io/post/hello-gridea/</id>
-        <link href="https://vippass4.github.io/Gridea.github.io/post/hello-gridea/">
+        <id>https://Gridea.github.io/post/hello-gridea/</id>
+        <link href="https://Gridea.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
